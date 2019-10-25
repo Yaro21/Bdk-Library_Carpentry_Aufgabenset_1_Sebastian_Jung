@@ -24,7 +24,7 @@ Lösung: Durch die Anpassung des Codes und der Ergänzgung von str() vor den IDs
 ## 4. Was ist JupyterLab?
 JupyterLab ist eine Oberfläche, die wesentlich mehr Features als das normale Notebook bietet. Außerdem ist eine bessere Übersichtlichkeits des Menüs vorhanden, advanced tools stehen zur Verfügung und mehrere Tabs gleichzeitig öffnen.
 
-## 5. Aufgabe 2. California
+## 5. Aufgabe 2. San Francisco
 Im ersten Aufgabenteil wird analysiert wie aktiv die Nutzer in der Altersgruppe zwischen 25 und 34 Jahren sind. Dies wird anhand einer Ausleihzahl an Medien von größer als 10 definiert. 
 Ergebnis: Insbesondere die Nutzer in Portola sind in dieser Alterklasse besonders aktiv was die Ausleihzalen angeht. In den restlichen Bibliotheken hingegen wurde wesentlich weniger von dieser Nutzergruppe ausgeliehen. 
 
