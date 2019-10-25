@@ -27,4 +27,5 @@ JupyterLab ist eine Oberfläche, die wesentlich mehr Features als das normale No
 ## 5. Aufgabe 2. California
 Im ersten Aufgabenteil wird analysiert wie aktiv die Nutzer in der Altersgruppe zwischen 25 und 34 Jahren sind. Dies wird anhand einer Ausleihzahl an Medien von größer als 10 definiert. 
 Ergebnis: Insbesondere die Nutzer in Portola sind in dieser Alterklasse besonders aktiv was die Ausleihzalen angeht. In den restlichen Bibliotheken hingegen wurde wesentlich weniger von dieser Nutzergruppe ausgeliehen. 
+
 Im zweiten Teil werden alle Nutzer der Gruppe "Senioren" gesucht, die per Post benachrichtigt werden. Insbesondere in der Hauptbibliothek betrifft das viele Nutzer.   
